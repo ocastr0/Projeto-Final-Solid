@@ -3,24 +3,6 @@
 RA: 1993141 - ISAQUE CASTRO MOREIRA CAVALCANTE
 RA: - GABRIEL FORCONI
 
----
-
-## Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Arquitetura e Princípios](#arquitetura-e-princípios)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Regras de Negócio](#regras-de-negócio)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-
----
-
 ## Sobre o Projeto
 
 Sistema web desenvolvido em PHP 8+ com banco de dados SQLite para gerenciar operações de um estacionamento. O projeto foi desenvolvido seguindo os princípios SOLID, DRY, KISS, Clean Code e Object Calisthenics, garantindo código limpo, manutenível e extensível.
@@ -211,4 +193,5 @@ controle-estacionamento/
 └── Repository/
 ├── SQLiteVeiculoRepositorio.php
 └── SQLiteEstacionamentoRepositorio.php
+
 
