@@ -1,0 +1,13 @@
+{
+    "name": "isaque-forconi/controle-estacionamento",
+    "description": "Sistema de controle de estacionamento",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
